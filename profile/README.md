@@ -1,5 +1,8 @@
 ## Hi there 👋
+### We Are Delogg Media
+#### Your News Source for Crypto, DeFi, Web3, Blockchain and Ai
 
+##### *Delogg: The Decrypted Log Crypto Magazine*
 <!--
 
 **Here are some ideas to get you started:**
